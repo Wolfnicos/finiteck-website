@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 40" width="120" height="40">
+  <rect width="120" height="40" rx="5" fill="#000"/>
+  <rect x="0.5" y="0.5" width="119" height="39" rx="4.5" fill="none" stroke="#A6A6A6"/>
+  <text x="60" y="14" fill="#fff" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="8" text-anchor="middle">Download on the</text>
+  <text x="60" y="28" fill="#fff" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="14" font-weight="600" text-anchor="middle">App Store</text>
+</svg>
