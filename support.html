@@ -3,22 +3,139 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Finiteck Support - Get help with your money-saving assistant.">
+    <meta name="description" content="Finiteck Support - Get help with your money-saving assistant. FAQ about adding expenses, AI advisor, data security, subscriptions, and more.">
     <meta name="theme-color" content="#0D0D0D">
-    <title>Support - Finiteck</title>
+    <meta name="apple-itunes-app" content="app-id=6758164183">
+    <title>Support & FAQ - Finiteck</title>
+
+    <!-- Canonical -->
+    <link rel="canonical" href="https://finiteck.com/support.html" />
+
+    <!-- Hreflang -->
+    <link rel="alternate" hreflang="en" href="https://finiteck.com/support.html" />
+    <link rel="alternate" hreflang="x-default" href="https://finiteck.com/support.html" />
+
+    <!-- Open Graph -->
+    <meta property="og:title" content="Support & FAQ - Finiteck" />
+    <meta property="og:description" content="Get help with Finiteck. FAQ about expenses, AI advisor, data security, and subscriptions." />
+    <meta property="og:url" content="https://finiteck.com/support.html" />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="https://finiteck.com/images/app-icon.png" />
+
     <link rel="stylesheet" href="css/style.css">
     <link rel="icon" type="image/png" href="images/app-icon.png">
+
+    <!-- Schema.org JSON-LD: BreadcrumbList -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://finiteck.com/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Support & FAQ",
+                "item": "https://finiteck.com/support.html"
+            }
+        ]
+    }
+    </script>
+
+    <!-- Schema.org JSON-LD: FAQPage -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+                "@type": "Question",
+                "name": "How do I add an expense in Finiteck?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Tap the \"+\" button on the Expenses tab to add a new recurring expense. Enter the name, amount, category, and frequency."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How does the AI advisor work?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "The AI analyzes your expenses and compares them with market data to find personalized savings opportunities. It provides actionable suggestions with specific tips on how to reduce costs."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Is my data secure in Finiteck?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes! All your data is stored locally on your device and never leaves it. Finiteck doesn't have access to your financial information. There are zero analytics, zero third-party SDKs, and zero ads."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How do I restore my Finiteck subscription?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Go to Profile > Subscription and tap \"Restore Purchases\". Make sure you're signed in with the same Apple ID you used to purchase the subscription."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How do I cancel my Finiteck subscription?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Subscriptions are managed through the App Store. Go to Settings > [Your Name] > Subscriptions on your iPhone or iPad to manage or cancel your Finiteck subscription."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How do I export my data from Finiteck?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Go to Profile > Data > Export Data. This will generate a file with all your expenses and savings information that you can share or save."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How do I delete my data from Finiteck?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Go to Profile > Data > Delete All Data. This will permanently remove all your expenses, suggestions, and profile data from your device. You can also uninstall the app to remove all data."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How do I change the language in Finiteck?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Go to Profile > Settings and select your preferred language from the Language picker. The app supports English, French, and Romanian."
+                }
+            }
+        ]
+    }
+    </script>
 </head>
 <body>
+    <!-- Skip Navigation -->
+    <a href="#main-content" class="skip-link">Skip to content</a>
+
     <header class="page-header">
         <div class="container">
-            <a href="index.html" class="back-link">&larr; Back to Home</a>
-            <h1>Support</h1>
+            <nav aria-label="Breadcrumb">
+                <a href="/" class="back-link">&larr; Back to Home</a>
+            </nav>
+            <h1>Support & FAQ</h1>
             <p class="last-updated">We're here to help</p>
         </div>
     </header>
 
-    <main class="legal-content">
+    <main id="main-content" class="legal-content">
         <div class="container">
 
             <section>
@@ -80,10 +197,11 @@
         <div class="container">
             <div class="footer-bottom">
                 <p>&copy; 2026 Finiteck. All rights reserved.</p>
-                <nav class="footer-links-inline">
-                    <a href="index.html">Home</a>
+                <nav class="footer-links-inline" aria-label="Footer navigation">
+                    <a href="/">Home</a>
                     <a href="privacy.html">Privacy Policy</a>
                     <a href="terms.html">Terms of Service</a>
+                    <a href="support.html">Support</a>
                 </nav>
             </div>
         </div>
