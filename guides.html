@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Guides pratiques pour économiser de l'argent au quotidien. Réduire ses factures, créer un budget personnel, comparer les crédits, négocier ses abonnements — nos conseils concrets pour économiser 200€ par mois.">
+    <meta name="theme-color" content="#0D0D0D">
+    <meta name="apple-itunes-app" content="app-id=6758164183">
+    <title>Guides Pratiques - Comment Économiser | Finiteck</title>
+
+    <!-- Canonical -->
+    <link rel="canonical" href="https://finiteck.com/guides.html" />
+
+    <!-- Hreflang -->
+    <link rel="alternate" hreflang="fr" href="https://finiteck.com/guides.html" />
+    <link rel="alternate" hreflang="x-default" href="https://finiteck.com/guides.html" />
+
+    <!-- Open Graph -->
+    <meta property="og:title" content="Guides Pratiques - Comment Économiser | Finiteck" />
+    <meta property="og:description" content="Guides pratiques pour économiser de l'argent : réduire ses factures, créer un budget, comparer les crédits, négocier ses abonnements." />
+    <meta property="og:url" content="https://finiteck.com/guides.html" />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="https://finiteck.com/images/app-icon.png" />
+    <meta property="og:locale" content="fr_FR" />
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Guides Pratiques - Comment Économiser | Finiteck" />
+    <meta name="twitter:description" content="Guides pratiques pour économiser de l'argent : réduire ses factures, créer un budget, comparer les crédits, négocier ses abonnements." />
+    <meta name="twitter:image" content="https://finiteck.com/images/app-icon.png" />
+
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="icon" type="image/png" href="images/app-icon.png">
+
+    <!-- Schema.org JSON-LD: BreadcrumbList -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Accueil",
+                "item": "https://finiteck.com/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Guides Pratiques",
+                "item": "https://finiteck.com/guides.html"
+            }
+        ]
+    }
+    </script>
+
+    <!-- Schema.org JSON-LD: CollectionPage + ItemList -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "CollectionPage",
+        "name": "Guides Pratiques - Comment Économiser",
+        "description": "Collection de guides pratiques pour économiser de l'argent au quotidien : factures, budget, crédits, abonnements.",
+        "url": "https://finiteck.com/guides.html",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Finiteck",
+            "url": "https://finiteck.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://finiteck.com/images/app-icon.png"
+            }
+        },
+        "mainEntity": {
+            "@type": "ItemList",
+            "name": "Guides pour économiser de l'argent",
+            "numberOfItems": 5,
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Comment réduire ses factures en 5 étapes",
+                    "url": "https://finiteck.com/guide-reduire-factures.html"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Comment créer un budget personnel efficace",
+                    "url": "https://finiteck.com/guide-budget-personnel.html"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 3,
+                    "name": "Comment comparer les crédits à la consommation",
+                    "url": "https://finiteck.com/guide-comparer-credits.html"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 4,
+                    "name": "Comment négocier ses abonnements et forfaits",
+                    "url": "https://finiteck.com/guide-negocier-abonnements.html"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 5,
+                    "name": "Comment économiser 200€ par mois sans effort",
+                    "url": "https://finiteck.com/guide-economiser-argent.html"
+                }
+            ]
+        }
+    }
+    </script>
+
+    <style>
+        /* --- Guide Grid --- */
+        .guides-intro {
+            font-size: var(--font-size-lg);
+            color: var(--color-text-secondary);
+            max-width: 640px;
+            margin-bottom: var(--space-2xl);
+        }
+
+        .guides-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: var(--space-xl);
+            margin-bottom: var(--space-3xl);
+        }
+
+        .guide-card {
+            display: flex;
+            flex-direction: column;
+            background-color: var(--color-bg-card);
+            border: 1px solid var(--color-border);
+            border-radius: var(--radius-lg);
+            padding: var(--space-xl);
+            text-decoration: none;
+            color: inherit;
+            transition: border-color 0.25s ease, box-shadow 0.25s ease, transform 0.2s ease;
+        }
+
+        .guide-card:hover {
+            border-color: var(--color-gold);
+            box-shadow: 0 6px 28px rgba(212, 175, 55, 0.15);
+            transform: translateY(-3px);
+            color: inherit;
+        }
+
+        .guide-icon {
+            width: 52px;
+            height: 52px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.75rem;
+            background-color: rgba(212, 175, 55, 0.1);
+            border-radius: var(--radius-md);
+            margin-bottom: var(--space-lg);
+            flex-shrink: 0;
+        }
+
+        .guide-card h2 {
+            font-size: var(--font-size-lg);
+            font-weight: 600;
+            color: var(--color-text-primary);
+            margin-bottom: var(--space-sm);
+            line-height: 1.35;
+        }
+
+        .guide-card p {
+            font-size: var(--font-size-sm);
+            color: var(--color-text-secondary);
+            line-height: 1.6;
+            margin-bottom: var(--space-lg);
+            flex-grow: 1;
+        }
+
+        .guide-cta {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.35rem;
+            font-size: var(--font-size-sm);
+            font-weight: 600;
+            color: var(--color-gold);
+            margin-top: auto;
+        }
+
+        .guide-card:hover .guide-cta {
+            color: var(--color-gold-light);
+        }
+
+        /* Remove the default h2 gold color inside cards — scoped override */
+        .guides-grid .guide-card h2 {
+            color: var(--color-text-primary);
+        }
+
+        @media (max-width: 640px) {
+            .guides-grid {
+                grid-template-columns: 1fr;
+                gap: var(--space-lg);
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Skip Navigation -->
+    <a href="#main-content" class="skip-link">Aller au contenu</a>
+
+    <header class="page-header">
+        <div class="container">
+            <nav aria-label="Fil d'Ariane">
+                <a href="/" class="back-link">&larr; Retour à l'accueil</a>
+            </nav>
+            <h1>Guides Pratiques</h1>
+            <p class="last-updated">Comment économiser de l'argent au quotidien</p>
+        </div>
+    </header>
+
+    <main id="main-content" class="legal-content">
+        <div class="container">
+
+            <p class="guides-intro">
+                Des guides concrets et actionnables pour reprendre le contrôle de vos dépenses, réduire vos factures et constituer une épargne solide — sans sacrifier votre qualité de vie.
+            </p>
+
+            <section aria-label="Liste des guides">
+                <div class="guides-grid">
+
+                    <!-- Guide 1 -->
+                    <a href="guide-reduire-factures.html" class="guide-card" aria-label="Lire : Comment réduire ses factures en 5 étapes">
+                        <div class="guide-icon" aria-hidden="true">⚡</div>
+                        <h2>Comment réduire ses factures en 5 étapes</h2>
+                        <p>Électricité, internet, téléphone, assurances : une méthode pas à pas pour identifier vos surcoûts et les éliminer rapidement.</p>
+                        <span class="guide-cta">Lire le guide <span aria-hidden="true">→</span></span>
+                    </a>
+
+                    <!-- Guide 2 -->
+                    <a href="guide-budget-personnel.html" class="guide-card" aria-label="Lire : Comment créer un budget personnel efficace">
+                        <div class="guide-icon" aria-hidden="true">📊</div>
+                        <h2>Comment créer un budget personnel efficace</h2>
+                        <p>Construisez un budget réaliste adapté à votre situation, suivez vos dépenses sans vous prendre la tête et atteignez vos objectifs financiers.</p>
+                        <span class="guide-cta">Lire le guide <span aria-hidden="true">→</span></span>
+                    </a>
+
+                    <!-- Guide 3 -->
+                    <a href="guide-comparer-credits.html" class="guide-card" aria-label="Lire : Comment comparer les crédits à la consommation">
+                        <div class="guide-icon" aria-hidden="true">🔍</div>
+                        <h2>Comment comparer les crédits à la consommation</h2>
+                        <p>TAEG, frais de dossier, assurance emprunteur : apprenez à lire une offre de crédit et à choisir celle qui vous coûte vraiment le moins cher.</p>
+                        <span class="guide-cta">Lire le guide <span aria-hidden="true">→</span></span>
+                    </a>
+
+                    <!-- Guide 4 -->
+                    <a href="guide-negocier-abonnements.html" class="guide-card" aria-label="Lire : Comment négocier ses abonnements et forfaits">
+                        <div class="guide-icon" aria-hidden="true">🤝</div>
+                        <h2>Comment négocier ses abonnements et forfaits</h2>
+                        <p>Scripts, arguments et timing idéal pour obtenir une réduction sur vos abonnements streaming, forfaits mobiles et contrats en cours.</p>
+                        <span class="guide-cta">Lire le guide <span aria-hidden="true">→</span></span>
+                    </a>
+
+                    <!-- Guide 5 -->
+                    <a href="guide-economiser-argent.html" class="guide-card" aria-label="Lire : Comment économiser 200€ par mois sans effort">
+                        <div class="guide-icon" aria-hidden="true">💰</div>
+                        <h2>Comment économiser 200&nbsp;€ par mois sans effort</h2>
+                        <p>20 ajustements simples sur vos dépenses récurrentes qui, cumulés, vous permettent d'économiser 200&nbsp;€ chaque mois sans changer votre style de vie.</p>
+                        <span class="guide-cta">Lire le guide <span aria-hidden="true">→</span></span>
+                    </a>
+
+                </div>
+            </section>
+
+            <section>
+                <h2>Allez plus loin avec Finiteck</h2>
+                <p>Ces guides vous donnent les bases. Pour aller encore plus vite, Finiteck analyse automatiquement toutes vos dépenses récurrentes et vous propose des économies personnalisées — directement sur votre iPhone.</p>
+                <p>
+                    <a href="/" class="cta-button-large" style="display:inline-block;">Télécharger Finiteck gratuitement</a>
+                </p>
+            </section>
+
+        </div>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-bottom">
+                <p>&copy; 2026 Finiteck. Tous droits réservés.</p>
+                <nav class="footer-links-inline" aria-label="Navigation du pied de page">
+                    <a href="/">Accueil</a>
+                    <a href="privacy.html">Confidentialité</a>
+                    <a href="terms.html">Conditions d'utilisation</a>
+                    <a href="support.html">Support</a>
+                </nav>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
