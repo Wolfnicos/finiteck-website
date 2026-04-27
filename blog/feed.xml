@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Blog Finiteck</title>
+        <link>https://finiteck.com/blog/</link>
+        <atom:link href="https://finiteck.com/blog/feed.xml" rel="self" type="application/rss+xml" />
+        <description>Articles, conseils et analyses concrètes pour économiser au quotidien et reprendre le contrôle de vos finances.</description>
+        <language>fr-FR</language>
+        <copyright>© 2026 Finiteck. Tous droits réservés.</copyright>
+        <lastBuildDate>Mon, 27 Apr 2026 08:00:00 +0200</lastBuildDate>
+        <generator>Finiteck Blog</generator>
+        <image>
+            <url>https://finiteck.com/images/app-icon.png</url>
+            <title>Blog Finiteck</title>
+            <link>https://finiteck.com/blog/</link>
+        </image>
+
+        <item>
+            <title>Économiser de l'argent en 2026 : par où commencer</title>
+            <link>https://finiteck.com/blog/economiser-argent-par-ou-commencer-2026.html</link>
+            <guid isPermaLink="true">https://finiteck.com/blog/economiser-argent-par-ou-commencer-2026.html</guid>
+            <pubDate>Mon, 27 Apr 2026 08:00:00 +0200</pubDate>
+            <category>Méthode</category>
+            <description>Trois étapes simples pour démarrer une démarche d'économies durable, sans tableur et sans bouleverser votre quotidien.</description>
+        </item>
+
+    </channel>
+</rss>
