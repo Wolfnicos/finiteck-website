@@ -1,18 +1,19 @@
-# Finiteck
+# finiteck.com
 
-> Finiteck — automated content site published via SignalLens AI.
+> finiteck.com — automated content site published via SignalLens AI.
 
 ## Key pages
-- [Home](https://finiteck.com/): Finiteck homepage
+- [Home](https://finiteck.com/): finiteck.com homepage
 - [Blog](https://finiteck.com/blog/index.html): all published articles
 - [About](https://finiteck.com/about.html): About page
 - [Support](https://finiteck.com/support.html): Support page
 - [Privacy](https://finiteck.com/privacy.html): Privacy page
 
 ## Articles
+- [Choisir un CRM Cloud pour PME en 2026 : Guide Pratique](https://finiteck.com/blog/choisir-une-plateforme-crm-cloud-en-2026-guide-complet.html.html) — [markdown](https://finiteck.com/blog/choisir-une-plateforme-crm-cloud-en-2026-guide-complet.md.md)
 - [Choisir une Plateforme CRM Cloud en 2026 : Guide Complet](https://finiteck.com/blog/choisir-une-plateforme-crm-cloud-en-2026-guide-complet.html) — [markdown](https://finiteck.com/blog/choisir-une-plateforme-crm-cloud-en-2026-guide-complet.md)
 - [Économiser de l'argent en 2026 : par où commencer](https://finiteck.com/blog/economiser-argent-par-ou-commencer-2026.html) — [markdown](https://finiteck.com/blog/economiser-argent-par-ou-commencer-2026.md)
 
 ## Contact
 - Website: https://finiteck.com
-- Generated: 2026-04-27
+- Generated: 2026-04-28
