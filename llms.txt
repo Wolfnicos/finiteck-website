@@ -10,6 +10,7 @@
 - [Privacy](https://finiteck.com/privacy.html): Privacy page
 
 ## Articles
+- [Meilleur Logiciel SaaS Comptabilité Belge 2026](https://finiteck.com/blog/meilleur-logiciel-saas-comptabilite-belge-2026.html) — [markdown](https://finiteck.com/blog/meilleur-logiciel-saas-comptabilite-belge-2026.md)
 - [Choisir Plateforme SaaS RGPD Belgique 2026](https://finiteck.com/blog/choisir-plateforme-saas-rgpd-belgique-2026.html) — [markdown](https://finiteck.com/blog/choisir-plateforme-saas-rgpd-belgique-2026.md)
 - [Choisir une Plateforme CRM Cloud en 2026 : Guide Complet](https://finiteck.com/blog/choisir-une-plateforme-crm-cloud-en-2026-guide-complet.html) — [markdown](https://finiteck.com/blog/choisir-une-plateforme-crm-cloud-en-2026-guide-complet.md)
 - [Choisir un CRM Cloud pour PME en 2026 : Guide Pratique](https://finiteck.com/blog/choisir-une-plateforme-crm-cloud-en-2026-guide-complet.html.html) — [markdown](https://finiteck.com/blog/choisir-une-plateforme-crm-cloud-en-2026-guide-complet.md.md)
