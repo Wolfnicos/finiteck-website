@@ -10,7 +10,6 @@
 - [Privacy](https://finiteck.com/privacy.html): Privacy page
 
 ## Articles
-- [Prix Solution SaaS Comptabilité Suisse Romande 2026](https://finiteck.com/blog/prix-solution-saas-comptabilite-suisse-romande-2026.html) — [markdown](https://finiteck.com/blog/prix-solution-saas-comptabilite-suisse-romande-2026.md)
 - [Choisir Plateforme SaaS RGPD Belgique 2026](https://finiteck.com/blog/choisir-plateforme-saas-rgpd-belgique-2026.html) — [markdown](https://finiteck.com/blog/choisir-plateforme-saas-rgpd-belgique-2026.md)
 - [Choisir un ERP Cloud PME Suisse en 2026 : Guide Complet](https://finiteck.com/blog/choisir-un-erp-cloud-pme-suisse-en-2026-guide-complet.html) — [markdown](https://finiteck.com/blog/choisir-un-erp-cloud-pme-suisse-en-2026-guide-complet.md)
 - [Choisir une Plateforme CRM Cloud en 2026 : Guide Complet](https://finiteck.com/blog/choisir-une-plateforme-crm-cloud-en-2026-guide-complet.html) — [markdown](https://finiteck.com/blog/choisir-une-plateforme-crm-cloud-en-2026-guide-complet.md)
@@ -26,6 +25,7 @@
 - [Meilleur Logiciel SaaS Conformité Suisse 2026](https://finiteck.com/blog/meilleur-logiciel-saas-conformite-suisse-2026.html) — [markdown](https://finiteck.com/blog/meilleur-logiciel-saas-conformite-suisse-2026.md)
 - [Meilleur Logiciel SaaS: Guide Comparatif pour Entreprises Françaises](https://finiteck.com/blog/meilleur-logiciel-saas.html) — [markdown](https://finiteck.com/blog/meilleur-logiciel-saas.md)
 - [Prix Logiciel SaaS PME Wallonie 2026 : Guide Complet](https://finiteck.com/blog/prix-logiciel-saas-pme-wallonie-2026-guide-complet.html) — [markdown](https://finiteck.com/blog/prix-logiciel-saas-pme-wallonie-2026-guide-complet.md)
+- [Prix Solution SaaS Comptabilité Suisse Romande 2026](https://finiteck.com/blog/prix-solution-saas-comptabilite-suisse-romande-2026.html) — [markdown](https://finiteck.com/blog/prix-solution-saas-comptabilite-suisse-romande-2026.md)
 - [Solution SaaS Conforme Législation Belge 2026](https://finiteck.com/blog/solution-saas-conforme-legislation-belge-2026.html) — [markdown](https://finiteck.com/blog/solution-saas-conforme-legislation-belge-2026.md)
 - [Tarif Plateforme SaaS Gestion Entreprise France 2026](https://finiteck.com/blog/tarif-plateforme-saas-gestion-entreprise-france-2026.html) — [markdown](https://finiteck.com/blog/tarif-plateforme-saas-gestion-entreprise-france-2026.md)
 
