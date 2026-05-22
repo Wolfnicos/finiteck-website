@@ -19,6 +19,7 @@
 - [Économiser de l'argent en 2026 : par où commencer](https://finiteck.com/blog/economiser-argent-par-ou-commencer-2026.html) — [markdown](https://finiteck.com/blog/economiser-argent-par-ou-commencer-2026.md)
 - [Finiteck : Gérer vos Dépenses SaaS avec Confidentialité](https://finiteck.com/blog/finiteck-gerer-vos-depenses-saas-avec-confidentialite.html) — [markdown](https://finiteck.com/blog/finiteck-gerer-vos-depenses-saas-avec-confidentialite.md)
 - [Finiteck.com : L&#x27;Alternative Privée pour Gérer Vos Dépenses](https://finiteck.com/blog/finiteckcom-l-alternative-privee-pour-gerer-vos-depenses.html) — [markdown](https://finiteck.com/blog/finiteckcom-l-alternative-privee-pour-gerer-vos-depenses.md)
+- [Logiciel Gestion Entreprise Conforme Loi Suisse 2026](https://finiteck.com/blog/logiciel-gestion-entreprise-conforme-loi-suisse-2026.html) — [markdown](https://finiteck.com/blog/logiciel-gestion-entreprise-conforme-loi-suisse-2026.md)
 - [Logiciel SaaS Facturation Conforme Loi Française 2026](https://finiteck.com/blog/logiciel-saas-facturation-conforme-loi-francaise-2026.html) — [markdown](https://finiteck.com/blog/logiciel-saas-facturation-conforme-loi-francaise-2026.md)
 - [Meilleur Logiciel SaaS Comptabilité Belge 2026](https://finiteck.com/blog/meilleur-logiciel-saas-comptabilite-belge-2026.html) — [markdown](https://finiteck.com/blog/meilleur-logiciel-saas-comptabilite-belge-2026.md)
 - [Meilleur Logiciel SaaS Comptabilité Française 2026](https://finiteck.com/blog/meilleur-logiciel-saas-comptabilite-francaise-2026.html) — [markdown](https://finiteck.com/blog/meilleur-logiciel-saas-comptabilite-francaise-2026.md)
@@ -31,4 +32,4 @@
 
 ## Contact
 - Website: https://finiteck.com
-- Generated: 2026-05-20
+- Generated: 2026-05-22
