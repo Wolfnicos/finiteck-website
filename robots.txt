@@ -1,4 +1,6 @@
 User-agent: *
 Allow: /
+Disallow: /*.md$
+Disallow: /blog/*.md
 
 Sitemap: https://finiteck.com/sitemap.xml
