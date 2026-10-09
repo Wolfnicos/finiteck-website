@@ -1,0 +1,610 @@
+[
+  {
+    "file": "images/articles/choisir-plateforme-saas-rgpd-belgique-2026-1.webp",
+    "source": "https://pub-2df00e47a1bc4a99abcb17ec68f147ce.r2.dev/hive/covers/3f9c814b-d66c-40c7-8216-98c73b7b872e.jpg",
+    "original_bytes": 211815,
+    "optimized_bytes": 131058,
+    "width": 1600,
+    "height": 1066
+  },
+  {
+    "file": "images/articles/choisir-plateforme-saas-rgpd-belgique-2026-2.webp",
+    "source": "https://pub-2df00e47a1bc4a99abcb17ec68f147ce.r2.dev/hive/body/9070da38-646d-46a5-a0a7-d659b35bdaf6.jpg",
+    "original_bytes": 278526,
+    "optimized_bytes": 173440,
+    "width": 1600,
+    "height": 1066
+  },
+  {
+    "file": "images/articles/choisir-plateforme-saas-rgpd-belgique-2026-3.webp",
+    "source": "https://pub-2df00e47a1bc4a99abcb17ec68f147ce.r2.dev/hive/body/f8cc0843-4328-49b6-89a6-ce7188ba19b4.jpg",
+    "original_bytes": 292491,
+    "optimized_bytes": 192888,
+    "width": 1600,
+    "height": 1066
+  },
+  {
+    "file": "images/articles/choisir-plateforme-saas-rgpd-belgique-2026-4.webp",
+    "source": "https://pub-2df00e47a1bc4a99abcb17ec68f147ce.r2.dev/hive/body/0ac1788c-f4c6-41eb-8eda-15037ea3dde8.jpg",
+    "original_bytes": 292491,
+    "optimized_bytes": 192888,
+    "width": 1600,
+    "height": 1066
+  },
+  {
+    "file": "images/articles/choisir-plateforme-saas-rgpd-belgique-2026-5.webp",
+    "source": "https://pub-2df00e47a1bc4a99abcb17ec68f147ce.r2.dev/hive/body/e5f80140-5613-47e1-ab56-4de6bd332076.jpg",
+    "original_bytes": 427596,
+    "optimized_bytes": 338070,
+    "width": 1600,
+    "height": 1068
+  },
+  {
+    "file": "images/articles/choisir-un-erp-cloud-pme-suisse-en-2026-guide-complet-1.webp",
+    "source": "https://pub-2df00e47a1bc4a99abcb17ec68f147ce.r2.dev/hive/covers/3c28736f-e59a-4561-bad7-bf2c66c53437.jpg",
+    "original_bytes": 211815,
+    "optimized_bytes": 131058,
+    "width": 1600,
+    "height": 1066
+  },
+  {
+    "file": "images/articles/choisir-un-erp-cloud-pme-suisse-en-2026-guide-complet-2.webp",
+    "source": "https://pub-2df00e47a1bc4a99abcb17ec68f147ce.r2.dev/hive/body/0d1a6520-96ce-44f2-80d9-6543c0eafd52.png",
+    "original_bytes": 512286,
+    "optimized_bytes": 60494,
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "images/articles/choisir-un-erp-cloud-pme-suisse-en-2026-guide-complet-3.webp",
+    "source": "https://pub-2df00e47a1bc4a99abcb17ec68f147ce.r2.dev/hive/body/7588fb35-1d0f-480e-a9c4-c0250dbe11ef.png",
+    "original_bytes": 571620,
+    "optimized_bytes": 68554,
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "images/articles/choisir-un-erp-cloud-pme-suisse-en-2026-guide-complet-4.webp",
+    "source": "https://pub-2df00e47a1bc4a99abcb17ec68f147ce.r2.dev/hive/body/7d15ebbb-5861-4c66-8103-dbfd7cc2adff.png",
+    "original_bytes": 506203,
+    "optimized_bytes": 55878,
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "images/articles/choisir-un-erp-cloud-pme-suisse-en-2026-guide-complet-5.webp",
+    "source": "https://pub-2df00e47a1bc4a99abcb17ec68f147ce.r2.dev/hive/body/d8455efa-3a96-414a-bd39-e4b00430cd73.png",
+    "original_bytes": 596963,
+    "optimized_bytes": 68916,
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "images/articles/choisir-une-plateforme-crm-cloud-en-2026-guide-complet-1.webp",
+    "source": "https://pub-2df00e47a1bc4a99abcb17ec68f147ce.r2.dev/hive/covers/7b1b58d5-8f1a-4ef2-bbba-c0a2023b831a.jpg",
+    "original_bytes": 277438,
+    "optimized_bytes": 210592,
+    "width": 1600,
+    "height": 1060
+  },
+  {
+    "file": "images/articles/choisir-une-plateforme-saas-pour-entreprise-au-luxembourg-1.webp",
+    "source": "https://pub-2df00e47a1bc4a99abcb17ec68f147ce.r2.dev/hive/covers/ef0b7a47-3604-44eb-b9de-9d8a67954506.jpg",
+    "original_bytes": 103176,
+    "optimized_bytes": 53154,
+    "width": 1600,
+    "height": 1068
+  },
+  {
+    "file": "images/articles/choisir-une-plateforme-saas-pour-entreprise-au-luxembourg-2.webp",
+    "source": "https://pub-2df00e47a1bc4a99abcb17ec68f147ce.r2.dev/hive/body/d6dab47c-4b2b-44e8-9ae0-a284cfbbcd3b.png",
+    "original_bytes": 432225,
+    "optimized_bytes": 52366,
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "images/articles/choisir-une-plateforme-saas-pour-entreprise-au-luxembourg-3.webp",
+    "source": "https://pub-2df00e47a1bc4a99abcb17ec68f147ce.r2.dev/hive/body/8da09877-5f4f-4432-a55f-066097954797.png",
+    "original_bytes": 579472,
+    "optimized_bytes": 83996,
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "images/articles/choisir-une-plateforme-saas-pour-entreprise-au-luxembourg-4.webp",
+    "source": "https://pub-2df00e47a1bc4a99abcb17ec68f147ce.r2.dev/hive/body/f833719e-f2c4-42a5-bca8-b5549141956c.png",
+    "original_bytes": 495096,
+    "optimized_bytes": 59508,
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "images/articles/choisir-une-plateforme-saas-pour-entreprise-au-luxembourg-5.webp",
+    "source": "https://pub-2df00e47a1bc4a99abcb17ec68f147ce.r2.dev/hive/body/651b7daf-4dde-41fa-80e7-0f4068cbb658.png",
+    "original_bytes": 521682,
+    "optimized_bytes": 57778,
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "images/articles/choisir-une-solution-saas-conforme-au-rgpd-en-2026-1.webp",
+    "source": "https://pub-2df00e47a1bc4a99abcb17ec68f147ce.r2.dev/hive/covers/cbd0fb45-1bb9-4f40-838b-587183cf76bb.jpg",
+    "original_bytes": 211815,
+    "optimized_bytes": 131058,
+    "width": 1600,
+    "height": 1066
+  },
+  {
+    "file": "images/articles/choisir-une-solution-saas-conforme-au-rgpd-en-2026-2.webp",
+    "source": "https://pub-2df00e47a1bc4a99abcb17ec68f147ce.r2.dev/hive/body/8a1d1ebf-20d3-4018-b635-b224c6ec6d78.jpg",
+    "original_bytes": 281043,
+    "optimized_bytes": 173440,
+    "width": 1600,
+    "height": 1066
+  },
+  {
+    "file": "images/articles/choisir-une-solution-saas-conforme-au-rgpd-en-2026-3.webp",
+    "source": "https://pub-2df00e47a1bc4a99abcb17ec68f147ce.r2.dev/hive/body/e486642e-2bf4-4175-ab54-7f15544be15e.jpg",
+    "original_bytes": 94354,
+    "optimized_bytes": 32648,
+    "width": 1600,
+    "height": 1049
+  },
+  {
+    "file": "images/articles/choisir-une-solution-saas-conforme-au-rgpd-en-2026-4.webp",
+    "source": "https://pub-2df00e47a1bc4a99abcb17ec68f147ce.r2.dev/hive/body/c469bac4-f10b-4d07-aaba-94ad053788d2.jpg",
+    "original_bytes": 285025,
+    "optimized_bytes": 180476,
+    "width": 1600,
+    "height": 1066
+  },
+  {
+    "file": "images/articles/choisir-une-solution-saas-conforme-au-rgpd-en-2026-5.webp",
+    "source": "https://pub-2df00e47a1bc4a99abcb17ec68f147ce.r2.dev/hive/body/4099c3cd-5616-4e64-aa3f-87a1765cd3f0.jpg",
+    "original_bytes": 115720,
+    "optimized_bytes": 64432,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "file": "images/articles/finiteck-gerer-vos-depenses-saas-avec-confidentialite-1.webp",
+    "source": "https://pub-2df00e47a1bc4a99abcb17ec68f147ce.r2.dev/hive/body/903975ef-1904-4b10-84a0-cc46619617cb.jpg",
+    "original_bytes": 270760,
+    "optimized_bytes": 173828,
+    "width": 1600,
+    "height": 1066
+  },
+  {
+    "file": "images/articles/finiteck-gerer-vos-depenses-saas-avec-confidentialite-2.webp",
+    "source": "https://pub-2df00e47a1bc4a99abcb17ec68f147ce.r2.dev/hive/body/429192b4-a1df-4b33-a809-bdc0b407a77a.jpg",
+    "original_bytes": 341007,
+    "optimized_bytes": 273534,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "file": "images/articles/finiteck-gerer-vos-depenses-saas-avec-confidentialite-3.webp",
+    "source": "https://pub-2df00e47a1bc4a99abcb17ec68f147ce.r2.dev/hive/body/d338c5f4-3b6c-4780-b7fd-edd27a6fa14b.jpg",
+    "original_bytes": 36537,
+    "optimized_bytes": 20256,
+    "width": 1600,
+    "height": 1066
+  },
+  {
+    "file": "images/articles/finiteck-gerer-vos-depenses-saas-avec-confidentialite-4.webp",
+    "source": "https://pub-2df00e47a1bc4a99abcb17ec68f147ce.r2.dev/hive/body/b4070ee3-87f0-45ad-818c-5544c60546a5.jpg",
+    "original_bytes": 134559,
+    "optimized_bytes": 62758,
+    "width": 1600,
+    "height": 1066
+  },
+  {
+    "file": "images/articles/finiteckcom-l-alternative-privee-pour-gerer-vos-depenses-1.webp",
+    "source": "https://pub-2df00e47a1bc4a99abcb17ec68f147ce.r2.dev/hive/body/078fea03-5eb5-48f0-86e9-7daf27a93afe.jpg",
+    "original_bytes": 270760,
+    "optimized_bytes": 173828,
+    "width": 1600,
+    "height": 1066
+  },
+  {
+    "file": "images/articles/logiciel-gestion-entreprise-conforme-loi-suisse-2026-1.webp",
+    "source": "https://pub-2df00e47a1bc4a99abcb17ec68f147ce.r2.dev/hive/covers/490682eb-c9cd-42a9-8a82-a10648743992.jpg",
+    "original_bytes": 214516,
+    "optimized_bytes": 124642,
+    "width": 1600,
+    "height": 1066
+  },
+  {
+    "file": "images/articles/logiciel-gestion-entreprise-conforme-loi-suisse-2026-2.webp",
+    "source": "https://pub-2df00e47a1bc4a99abcb17ec68f147ce.r2.dev/hive/body/5da1fc80-5d3a-4979-a8ec-3c8cbc740966.png",
+    "original_bytes": 561380,
+    "optimized_bytes": 70014,
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "images/articles/logiciel-gestion-entreprise-conforme-loi-suisse-2026-3.webp",
+    "source": "https://pub-2df00e47a1bc4a99abcb17ec68f147ce.r2.dev/hive/body/50ee47c9-c18a-4ebf-b101-417aa41d3545.png",
+    "original_bytes": 499338,
+    "optimized_bytes": 47322,
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "images/articles/logiciel-gestion-entreprise-conforme-loi-suisse-2026-4.webp",
+    "source": "https://pub-2df00e47a1bc4a99abcb17ec68f147ce.r2.dev/hive/body/ee94b91a-6ee1-41e8-93cd-195834df9e42.png",
+    "original_bytes": 514985,
+    "optimized_bytes": 66350,
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "images/articles/logiciel-gestion-entreprise-conforme-loi-suisse-2026-5.webp",
+    "source": "https://pub-2df00e47a1bc4a99abcb17ec68f147ce.r2.dev/hive/body/5883545d-0445-40b1-894e-59a2dea8de56.png",
+    "original_bytes": 523601,
+    "optimized_bytes": 57356,
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "images/articles/logiciel-saas-facturation-conforme-loi-francaise-2026-1.webp",
+    "source": "https://pub-2df00e47a1bc4a99abcb17ec68f147ce.r2.dev/hive/covers/1ee539e8-4b49-4a62-9bfa-4d3b3b603791.jpg",
+    "original_bytes": 210311,
+    "optimized_bytes": 124642,
+    "width": 1600,
+    "height": 1066
+  },
+  {
+    "file": "images/articles/logiciel-saas-facturation-conforme-loi-francaise-2026-2.webp",
+    "source": "https://pub-2df00e47a1bc4a99abcb17ec68f147ce.r2.dev/hive/body/81f18e4a-afc0-4255-9c1a-f6219b92f763.jpg",
+    "original_bytes": 340577,
+    "optimized_bytes": 252416,
+    "width": 1600,
+    "height": 1066
+  },
+  {
+    "file": "images/articles/logiciel-saas-facturation-conforme-loi-francaise-2026-3.webp",
+    "source": "https://pub-2df00e47a1bc4a99abcb17ec68f147ce.r2.dev/hive/body/69dc74c8-1be5-45a3-a3f4-22dc30afc6a5.jpg",
+    "original_bytes": 234315,
+    "optimized_bytes": 150182,
+    "width": 1600,
+    "height": 1066
+  },
+  {
+    "file": "images/articles/logiciel-saas-facturation-conforme-loi-francaise-2026-4.webp",
+    "source": "https://pub-2df00e47a1bc4a99abcb17ec68f147ce.r2.dev/hive/body/c2f3398e-007d-433a-9c52-0c97fbe5ec0a.jpg",
+    "original_bytes": 322857,
+    "optimized_bytes": 237986,
+    "width": 1600,
+    "height": 1066
+  },
+  {
+    "file": "images/articles/logiciel-saas-facturation-conforme-loi-francaise-2026-5.webp",
+    "source": "https://pub-2df00e47a1bc4a99abcb17ec68f147ce.r2.dev/hive/body/bd7d9a5e-f003-4661-88dd-d714e3bb943d.jpg",
+    "original_bytes": 150967,
+    "optimized_bytes": 90010,
+    "width": 1600,
+    "height": 1066
+  },
+  {
+    "file": "images/articles/meilleur-logiciel-saas-comptabilite-belge-2026-1.webp",
+    "source": "https://pub-2df00e47a1bc4a99abcb17ec68f147ce.r2.dev/hive/covers/46bb4de4-19e3-4ba2-820d-4a5217de3eb1.jpg",
+    "original_bytes": 211815,
+    "optimized_bytes": 131058,
+    "width": 1600,
+    "height": 1066
+  },
+  {
+    "file": "images/articles/meilleur-logiciel-saas-comptabilite-belge-2026-2.webp",
+    "source": "https://pub-2df00e47a1bc4a99abcb17ec68f147ce.r2.dev/hive/body/17eacbbb-fa50-47ee-9473-87fbe9c1f028.jpg",
+    "original_bytes": 292491,
+    "optimized_bytes": 192888,
+    "width": 1600,
+    "height": 1066
+  },
+  {
+    "file": "images/articles/meilleur-logiciel-saas-comptabilite-belge-2026-3.webp",
+    "source": "https://pub-2df00e47a1bc4a99abcb17ec68f147ce.r2.dev/hive/body/624005ff-d730-422f-80b8-75432a01d4b5.jpg",
+    "original_bytes": 357128,
+    "optimized_bytes": 293530,
+    "width": 1600,
+    "height": 1066
+  },
+  {
+    "file": "images/articles/meilleur-logiciel-saas-comptabilite-belge-2026-4.webp",
+    "source": "https://pub-2df00e47a1bc4a99abcb17ec68f147ce.r2.dev/hive/body/bc157f90-3e7e-4a09-97fd-107d52693f6f.jpg",
+    "original_bytes": 312967,
+    "optimized_bytes": 213872,
+    "width": 1600,
+    "height": 1066
+  },
+  {
+    "file": "images/articles/meilleur-logiciel-saas-comptabilite-belge-2026-5.webp",
+    "source": "https://pub-2df00e47a1bc4a99abcb17ec68f147ce.r2.dev/hive/body/e0a35274-3f73-4f1d-a73c-97f824c91020.jpg",
+    "original_bytes": 106278,
+    "optimized_bytes": 62150,
+    "width": 1600,
+    "height": 1066
+  },
+  {
+    "file": "images/articles/meilleur-logiciel-saas-comptabilite-francaise-2026-1.webp",
+    "source": "https://pub-2df00e47a1bc4a99abcb17ec68f147ce.r2.dev/hive/covers/03539816-29e0-46cd-b9be-f3b6c9d861e3.jpg",
+    "original_bytes": 211815,
+    "optimized_bytes": 131058,
+    "width": 1600,
+    "height": 1066
+  },
+  {
+    "file": "images/articles/meilleur-logiciel-saas-comptabilite-francaise-2026-2.webp",
+    "source": "https://pub-2df00e47a1bc4a99abcb17ec68f147ce.r2.dev/hive/body/c62afd24-1f71-4800-8968-87b74ea05150.jpg",
+    "original_bytes": 270760,
+    "optimized_bytes": 173828,
+    "width": 1600,
+    "height": 1066
+  },
+  {
+    "file": "images/articles/meilleur-logiciel-saas-comptabilite-francaise-2026-3.webp",
+    "source": "https://pub-2df00e47a1bc4a99abcb17ec68f147ce.r2.dev/hive/body/6f07c600-b88a-472a-9abd-a87586d2649a.jpg",
+    "original_bytes": 188679,
+    "optimized_bytes": 117682,
+    "width": 1600,
+    "height": 1065
+  },
+  {
+    "file": "images/articles/meilleur-logiciel-saas-comptabilite-francaise-2026-4.webp",
+    "source": "https://pub-2df00e47a1bc4a99abcb17ec68f147ce.r2.dev/hive/body/1cc05e25-571a-4946-9b8f-5277b9dd242e.jpg",
+    "original_bytes": 94297,
+    "optimized_bytes": 53140,
+    "width": 1600,
+    "height": 1066
+  },
+  {
+    "file": "images/articles/meilleur-logiciel-saas-comptabilite-francaise-2026-5.webp",
+    "source": "https://pub-2df00e47a1bc4a99abcb17ec68f147ce.r2.dev/hive/body/a2bc7f61-762e-4c9b-b4f4-853609af0b0b.jpg",
+    "original_bytes": 217386,
+    "optimized_bytes": 120438,
+    "width": 1600,
+    "height": 1068
+  },
+  {
+    "file": "images/articles/meilleur-logiciel-saas-conformite-rgpd-luxembourg-2026-1.webp",
+    "source": "https://pub-2df00e47a1bc4a99abcb17ec68f147ce.r2.dev/hive/covers/5a5b1095-ea60-4c83-8140-e8069cdea610.jpg",
+    "original_bytes": 91275,
+    "optimized_bytes": 47400,
+    "width": 1600,
+    "height": 1066
+  },
+  {
+    "file": "images/articles/meilleur-logiciel-saas-conformite-rgpd-luxembourg-2026-2.webp",
+    "source": "https://pub-2df00e47a1bc4a99abcb17ec68f147ce.r2.dev/hive/body/c7d3a61d-f977-4d01-b1ef-61b9a9dccecb.png",
+    "original_bytes": 679494,
+    "optimized_bytes": 104600,
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "images/articles/meilleur-logiciel-saas-conformite-rgpd-luxembourg-2026-3.webp",
+    "source": "https://pub-2df00e47a1bc4a99abcb17ec68f147ce.r2.dev/hive/body/49c576b9-ec5b-4ef1-902f-57801a25a3d5.png",
+    "original_bytes": 518387,
+    "optimized_bytes": 64710,
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "images/articles/meilleur-logiciel-saas-conformite-rgpd-luxembourg-2026-4.webp",
+    "source": "https://pub-2df00e47a1bc4a99abcb17ec68f147ce.r2.dev/hive/body/05bfa3f3-905e-4256-be14-98e23d367822.png",
+    "original_bytes": 545191,
+    "optimized_bytes": 68070,
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "images/articles/meilleur-logiciel-saas-conformite-rgpd-luxembourg-2026-5.webp",
+    "source": "https://pub-2df00e47a1bc4a99abcb17ec68f147ce.r2.dev/hive/body/d54a484b-ee40-4255-a4b9-3e4f20d7248e.png",
+    "original_bytes": 543647,
+    "optimized_bytes": 63734,
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "images/articles/meilleur-logiciel-saas-conformite-suisse-2026-1.webp",
+    "source": "https://pub-2df00e47a1bc4a99abcb17ec68f147ce.r2.dev/hive/covers/03071cee-e5bc-48e3-97ec-40a90c3f68d2.jpg",
+    "original_bytes": 211815,
+    "optimized_bytes": 131058,
+    "width": 1600,
+    "height": 1066
+  },
+  {
+    "file": "images/articles/meilleur-logiciel-saas-conformite-suisse-2026-2.webp",
+    "source": "https://pub-2df00e47a1bc4a99abcb17ec68f147ce.r2.dev/hive/body/08f5e16d-10fe-4c62-b23b-8408fd6f9496.png",
+    "original_bytes": 493098,
+    "optimized_bytes": 52426,
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "images/articles/meilleur-logiciel-saas-conformite-suisse-2026-3.webp",
+    "source": "https://pub-2df00e47a1bc4a99abcb17ec68f147ce.r2.dev/hive/body/f193022b-c088-40c6-b3c8-f70cf8c3a801.png",
+    "original_bytes": 586825,
+    "optimized_bytes": 64724,
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "images/articles/meilleur-logiciel-saas-conformite-suisse-2026-4.webp",
+    "source": "https://pub-2df00e47a1bc4a99abcb17ec68f147ce.r2.dev/hive/body/d01429c6-17bd-444e-881c-62f7d93aafb0.png",
+    "original_bytes": 554955,
+    "optimized_bytes": 66822,
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "images/articles/meilleur-logiciel-saas-conformite-suisse-2026-5.webp",
+    "source": "https://pub-2df00e47a1bc4a99abcb17ec68f147ce.r2.dev/hive/body/ebd29e9d-b226-4f47-85bc-19de09113ef7.png",
+    "original_bytes": 601734,
+    "optimized_bytes": 78426,
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "images/articles/prix-logiciel-saas-pme-wallonie-2026-guide-complet-1.webp",
+    "source": "https://pub-2df00e47a1bc4a99abcb17ec68f147ce.r2.dev/hive/covers/369eedb6-e7e6-40b7-aaeb-24d700d7ee07.jpg",
+    "original_bytes": 211815,
+    "optimized_bytes": 131058,
+    "width": 1600,
+    "height": 1066
+  },
+  {
+    "file": "images/articles/prix-logiciel-saas-pme-wallonie-2026-guide-complet-2.webp",
+    "source": "https://pub-2df00e47a1bc4a99abcb17ec68f147ce.r2.dev/hive/body/115c8992-9d86-4829-b2d8-eeb6c994be1d.png",
+    "original_bytes": 534972,
+    "optimized_bytes": 63788,
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "images/articles/prix-logiciel-saas-pme-wallonie-2026-guide-complet-3.webp",
+    "source": "https://pub-2df00e47a1bc4a99abcb17ec68f147ce.r2.dev/hive/body/0810a6a9-b385-4e78-8ae6-e19528d558d9.png",
+    "original_bytes": 567356,
+    "optimized_bytes": 85990,
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "images/articles/prix-logiciel-saas-pme-wallonie-2026-guide-complet-4.webp",
+    "source": "https://pub-2df00e47a1bc4a99abcb17ec68f147ce.r2.dev/hive/body/b3b4e4e1-5684-43c4-9ab9-0ffca431d51b.png",
+    "original_bytes": 571748,
+    "optimized_bytes": 68148,
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "images/articles/prix-logiciel-saas-pme-wallonie-2026-guide-complet-5.webp",
+    "source": "https://pub-2df00e47a1bc4a99abcb17ec68f147ce.r2.dev/hive/body/852d8f82-d425-4c54-a773-2484968ec70a.png",
+    "original_bytes": 547819,
+    "optimized_bytes": 70446,
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "images/articles/prix-solution-saas-comptabilite-suisse-romande-2026-1.webp",
+    "source": "https://pub-2df00e47a1bc4a99abcb17ec68f147ce.r2.dev/hive/covers/2108d3b0-b1f4-448f-a359-54266ca88ab3.jpg",
+    "original_bytes": 98495,
+    "optimized_bytes": 53154,
+    "width": 1600,
+    "height": 1068
+  },
+  {
+    "file": "images/articles/prix-solution-saas-comptabilite-suisse-romande-2026-2.webp",
+    "source": "https://pub-2df00e47a1bc4a99abcb17ec68f147ce.r2.dev/hive/body/47874828-cf9a-4928-836f-f1225bd20d65.png",
+    "original_bytes": 549023,
+    "optimized_bytes": 62486,
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "images/articles/prix-solution-saas-comptabilite-suisse-romande-2026-3.webp",
+    "source": "https://pub-2df00e47a1bc4a99abcb17ec68f147ce.r2.dev/hive/body/7ceae2a1-4803-410a-bac3-9d1cac0ebb7e.png",
+    "original_bytes": 499405,
+    "optimized_bytes": 47874,
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "images/articles/prix-solution-saas-comptabilite-suisse-romande-2026-4.webp",
+    "source": "https://pub-2df00e47a1bc4a99abcb17ec68f147ce.r2.dev/hive/body/3ef12d83-32e8-4c72-950b-1385996be538.png",
+    "original_bytes": 585567,
+    "optimized_bytes": 73536,
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "images/articles/prix-solution-saas-comptabilite-suisse-romande-2026-5.webp",
+    "source": "https://pub-2df00e47a1bc4a99abcb17ec68f147ce.r2.dev/hive/body/c622b4c2-21c3-4503-8477-84c9cf39f146.png",
+    "original_bytes": 495386,
+    "optimized_bytes": 49360,
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "images/articles/solution-saas-conforme-legislation-belge-2026-1.webp",
+    "source": "https://pub-2df00e47a1bc4a99abcb17ec68f147ce.r2.dev/hive/covers/c9d1cc09-b8a2-47f8-8179-aa1b93c4e193.jpg",
+    "original_bytes": 211815,
+    "optimized_bytes": 131058,
+    "width": 1600,
+    "height": 1066
+  },
+  {
+    "file": "images/articles/solution-saas-conforme-legislation-belge-2026-2.webp",
+    "source": "https://pub-2df00e47a1bc4a99abcb17ec68f147ce.r2.dev/hive/body/559c1372-620c-4b92-9083-37392de1fb87.png",
+    "original_bytes": 642256,
+    "optimized_bytes": 83234,
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "images/articles/solution-saas-conforme-legislation-belge-2026-3.webp",
+    "source": "https://pub-2df00e47a1bc4a99abcb17ec68f147ce.r2.dev/hive/body/2c676a8a-8a77-4846-91bf-029acfa0be59.png",
+    "original_bytes": 479427,
+    "optimized_bytes": 43416,
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "images/articles/solution-saas-conforme-legislation-belge-2026-4.webp",
+    "source": "https://pub-2df00e47a1bc4a99abcb17ec68f147ce.r2.dev/hive/body/441250af-11fe-4dd6-b9b1-5ca456d905d6.png",
+    "original_bytes": 430117,
+    "optimized_bytes": 36008,
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "images/articles/solution-saas-conforme-legislation-belge-2026-5.webp",
+    "source": "https://pub-2df00e47a1bc4a99abcb17ec68f147ce.r2.dev/hive/body/b4790c00-1f7c-4dcb-886e-41ac8b96cb5a.png",
+    "original_bytes": 495942,
+    "optimized_bytes": 46758,
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "images/articles/tarif-plateforme-saas-gestion-entreprise-france-2026-1.webp",
+    "source": "https://pub-2df00e47a1bc4a99abcb17ec68f147ce.r2.dev/hive/covers/e7170900-d49f-49ad-8be2-09c24749d4f8.jpg",
+    "original_bytes": 211815,
+    "optimized_bytes": 131058,
+    "width": 1600,
+    "height": 1066
+  },
+  {
+    "file": "images/articles/tarif-plateforme-saas-gestion-entreprise-france-2026-2.webp",
+    "source": "https://pub-2df00e47a1bc4a99abcb17ec68f147ce.r2.dev/hive/body/1136c532-13a2-4c84-8803-195f8d3fbe8c.jpg",
+    "original_bytes": 354904,
+    "optimized_bytes": 294254,
+    "width": 1600,
+    "height": 1066
+  },
+  {
+    "file": "images/articles/tarif-plateforme-saas-gestion-entreprise-france-2026-3.webp",
+    "source": "https://pub-2df00e47a1bc4a99abcb17ec68f147ce.r2.dev/hive/body/33d26baa-bce3-4064-85bc-24f5cf87b560.jpg",
+    "original_bytes": 243340,
+    "optimized_bytes": 156730,
+    "width": 1600,
+    "height": 1066
+  },
+  {
+    "file": "images/articles/tarif-plateforme-saas-gestion-entreprise-france-2026-4.webp",
+    "source": "https://pub-2df00e47a1bc4a99abcb17ec68f147ce.r2.dev/hive/body/e44eb9b0-21e4-4bf8-b4a4-0e7146d4694c.jpg",
+    "original_bytes": 172377,
+    "optimized_bytes": 101760,
+    "width": 1600,
+    "height": 1066
+  },
+  {
+    "file": "images/articles/tarif-plateforme-saas-gestion-entreprise-france-2026-5.webp",
+    "source": "https://pub-2df00e47a1bc4a99abcb17ec68f147ce.r2.dev/hive/body/f79cde5e-9b13-4d39-9a54-454b3ddb2da7.jpg",
+    "original_bytes": 111994,
+    "optimized_bytes": 59182,
+    "width": 1600,
+    "height": 1068
+  }
+]
